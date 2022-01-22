@@ -1,0 +1,66 @@
+{
+  "ActiveSession": {
+    "events": [
+      {
+        "account": null,
+        "bytes_truncated": 0,
+        "encryption_mode": null,
+        "environment": null,
+        "location": null,
+        "name": null,
+        "network_info": {
+          "cell": null,
+          "cellular_network_type": null,
+          "connection_type": 1,
+          "wifi_access_point": null,
+          "wifi_networks": null
+        },
+        "number": 2,
+        "time": 4,
+        "type": 7,
+        "value": null
+      },
+      {
+        "account": null,
+        "bytes_truncated": 0,
+        "encryption_mode": null,
+        "environment": null,
+        "location": null,
+        "name": null,
+        "network_info": {
+          "cell": null,
+          "cellular_network_type": null,
+          "connection_type": 1,
+          "wifi_access_point": null,
+          "wifi_networks": null
+        },
+        "number": 3,
+        "time": 5,
+        "type": 7,
+        "value": null
+      }
+    ],
+    "id": 1629381801,
+    "session_desc": {
+      "locale": "ru-RU",
+      "location": null,
+      "network_info": null,
+      "session_type": 0,
+      "start_time": {
+        "server_time_offset": null,
+        "time_zone": 25200,
+        "timestamp": 1629381801
+      }
+    },
+    "EventCounter": 4,
+    "LastEventTimestamp": 1629381806,
+    "LastEventType": 7,
+    "LastUpdateTimestamp": 1629381803,
+    "ReportParameters": "app_id=TIMnotepad-2021&model=TUF Gaming FX505DY_FX505DY&locale=ru-RU&os_version=6.2.9200.0&manufacturer=ASUSTeK COMPUTER INC.&app_platform=WindowsPhone&screen_dpi=0&scalefactor=1&screen_width=1920&screen_height=1080&analytics_sdk_version=351&api_key_128=eec0be42-e202-4f51-ba44-a1ec4c76275f&app_framework=native&device_type=desktop&analytics_sdk_build_number=246&analytics_sdk_build_type=net_desktop&app_build_number=22&app_version_name=11.11.22.36"
+  },
+  "CompletedSessions": [ ],
+  "ForceSend": false,
+  "ReportPackages": [ ],
+  "ReportedEventsCount": 2,
+  "LastFlushTime": "\/Date(1629381802999)\/"
+}
